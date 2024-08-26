@@ -1,2 +1,2 @@
-# Python
-All Personal Python Projects
+# Python and Data
+All Personal Python and Data Projects
